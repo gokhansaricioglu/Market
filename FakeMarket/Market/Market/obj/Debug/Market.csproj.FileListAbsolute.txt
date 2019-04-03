@@ -1,0 +1,10 @@
+C:\Users\Sem\Desktop\Market\Market\Market\bin\Debug\Market.exe.config
+C:\Users\Sem\Desktop\Market\Market\Market\bin\Debug\Market.exe
+C:\Users\Sem\Desktop\Market\Market\Market\bin\Debug\Market.pdb
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.Form1.resources
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.exe
+C:\Users\Sem\Desktop\Market\Market\Market\obj\Debug\Market.pdb
